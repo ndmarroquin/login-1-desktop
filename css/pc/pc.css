@@ -1,0 +1,13 @@
+.login-background{
+    padding-top: 0rem;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.banner-login img{
+    width: 50rem;
+}
+
+.formulario {
+    width: 40rem;
+}

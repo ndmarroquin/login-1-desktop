@@ -1,0 +1,29 @@
+Section{
+    max-width: 60rem;
+}
+.banner-login h2 {
+    font-size: 5rem;
+}
+.banner-login span {
+    font-size: 3rem;
+}
+.formulario-login {
+    background-color: #fff;
+    border-radius: 4rem 4rem 4rem 4rem;
+}
+.banner-login img{
+    width: 40rem;
+}
+.login-background {
+    height: 100vh;
+}
+.formulario {
+    width: 50rem;
+}
+.formulario__label {
+    font-size: var(--size-h2);
+    margin-bottom: 5rem;
+}
+.formulario__label input {
+    font-size: var(--size-h3);
+}
